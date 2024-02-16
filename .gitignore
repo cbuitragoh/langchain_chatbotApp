@@ -1,0 +1,9 @@
+# environments
+.venv
+
+#secrets
+secrets/
+
+#caches
+__pycache__/
+basic
